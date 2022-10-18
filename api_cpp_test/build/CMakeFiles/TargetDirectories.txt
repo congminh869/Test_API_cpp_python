@@ -1,0 +1,3 @@
+/media/minhssd/New Volume/work/Documents/hoctap/REST_API_Tutorial/api_cpp_test/build/CMakeFiles/rebuild_cache.dir
+/media/minhssd/New Volume/work/Documents/hoctap/REST_API_Tutorial/api_cpp_test/build/CMakeFiles/edit_cache.dir
+/media/minhssd/New Volume/work/Documents/hoctap/REST_API_Tutorial/api_cpp_test/build/CMakeFiles/cppAPI.dir
